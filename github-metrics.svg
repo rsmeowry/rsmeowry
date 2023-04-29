@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1208" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1142" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1382 Commits
+                            1384 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="166.21111301345192" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="166.21111301345192" y="0" width="117.1394084521997" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="283.3505214656516" y="0" width="109.04756891878579" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="392.39809038443735" y="0" width="52.74593231869484" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="445.14402270313224" y="0" width="7.400761089201019" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.54478379233325" y="0" width="6.454543696299526" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.99932748863273" y="0" width="0.9532631209485928" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.95259060958136" y="0" width="0.04740939041861464" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="166.3542394022404" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="166.3542394022404" y="0" width="117.08234114550697" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="283.4365805477474" y="0" width="108.99444374817229" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="392.43102429591966" y="0" width="52.72023585722044" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="445.1512601531401" y="0" width="7.397155628763601" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.5484157819037" y="0" width="6.451399208636958" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.99981499054064" y="0" width="0.9527987156762692" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.95261370621694" y="0" width="0.047386293783085356" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -238,7 +238,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>2.78 MB</div>
+                                <div>2.79 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1493,9 +1493,9 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">8f99ccef</span>
-                            <span class="code">src/main/kotlin/space/maxus/macrocosm/ui/components/CloseUIComponent.kt</span>
+                            <span class="code">src/main/kotlin/space/maxus/macrocosm/item/types/WitherBlade.kt</span>
                             <span class="code">
-                                <span class="snippet additions">++5</span>
+                                <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -1504,14 +1504,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -8,6 +8,11 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">import space.maxus.macrocosm.item.ItemValue<br /></span><span class="token prefix unchanged">·</span><span class="token line">import space.maxus.macrocosm.ui.UIClickData<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">/**<br /></span><span class="token prefix inserted">+</span><span class="token line">* A component that closes the inventory it is in.<br /></span><span class="token prefix inserted">+</span><span class="token line">* @param space The space this component is in.<br /></span><span class="token prefix inserted">+</span><span class="token line">* @param item The item to display.<br /></span><span class="token prefix inserted">+</span><span class="token line">*/<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">class CloseUIComponent(<br /></span><span class="token prefix unchanged">·</span><span class="token line">   space: ComponentSpace,<br /></span><span class="token prefix unchanged">·</span><span class="token line">   val item: ItemStack = ItemValue.placeholder(Material.BARRIER, "&lt;red&gt;Close")</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -223,6 +223,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   }<br /></span><span class="token prefix unchanged">·</span><span class="token line">}<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">/// A scroll ability that can be used on a WitherBlade.<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">class WitherScrollAbility(<br /></span><span class="token prefix unchanged">·</span><span class="token line">   name: String,<br /></span><span class="token prefix unchanged">·</span><span class="token line">   description: String,</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Apr 2023, 18:12:15 (timezone Europe/Moscow) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Apr 2023, 19:15:38 (timezone Europe/Moscow) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
