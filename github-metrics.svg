@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1433 Commits
+                            1434 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.5033211270413" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="171.5033211270413" y="0" width="115.28512083414626" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="286.7884419611875" y="0" width="106.91775153253172" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="393.70619349371924" y="0" width="51.72798257138505" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="445.4341760651043" y="0" width="7.2562161920008625" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.69039225710515" y="0" width="6.328479451850817" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.018871708956" y="0" width="0.9346448574806269" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.95351656643663" y="0" width="0.046483433563396036" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.84844627457502" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="171.84844627457502" y="0" width="115.14720661450336" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="286.99565288907837" y="0" width="106.7898470973202" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="393.7854999863986" y="0" width="51.66610100073295" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="445.4516009871315" y="0" width="7.247535666826071" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.69913665395757" y="0" width="6.320908767110123" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.02004542106766" y="0" width="0.9335267529478821" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.95357217401556" y="0" width="0.04642782598437949" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -238,7 +238,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>2.93 MB</div>
+                                <div>2.94 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1477,7 +1477,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 7 May 2023, 12:36:58
+                            On 6 May 2023, 18:44:53
                         </div>
                     </section>
                 </div>
@@ -1493,8 +1493,8 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">0d8c1c00</span>
-                            <span class="code">flare/core/src/main/java/space/maxus/flare/ui/compose/complex/TabulationImpl.java</span>
+                            <span class="code">0ec32649</span>
+                            <span class="code">flare/core/src/main/java/space/maxus/flare/ui/compose/RootReferencing.java</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -1505,14 +1505,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -57,7 +57,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">@Override<br /></span><span class="token prefix unchanged">·</span><span class="token line">public ItemStack renderAt(Slot slot) {<br /></span><span class="token prefix unchanged">·</span><span class="token line">    int idx = this.allocatedSpace.indexOf(slot);<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    if(idx == -1) // Probably exceeded allocated space<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    if (idx == -1) // Probably exceeded allocated space<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">        return null;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">    if (currentIdx.get() == idx)</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -31,7 +31,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">@Override<br /></span><span class="token prefix unchanged">·</span><span class="token line">public void markDirty() {<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    if(attachedSpace == null)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    if (attachedSpace == null)<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">        Composable.super.markDirty();<br /></span><span class="token prefix unchanged">·</span><span class="token line">    else<br /></span><span class="token prefix unchanged">·</span><span class="token line">        root().markDirty(attachedSpace);</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 May 2023, 14:10:09 (timezone Europe/Moscow) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 7 May 2023, 15:22:26 (timezone Europe/Moscow) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
