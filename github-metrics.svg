@@ -1356,7 +1356,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~31 coding hours recorded
+                            ~29 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1398,23 +1398,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Flare</span>
-                                <div class="bar" style="width: 63.472%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">79%</span>
+                                <div class="bar" style="width: 62.512%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">78%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">globchat</span>
-                                <div class="bar" style="width: 10.671999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">13%</span>
+                                <div class="bar" style="width: 11.240000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Macrocosm</span>
-                                <div class="bar" style="width: 4.424%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.664%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">blog.maxus.space</span>
-                                <div class="bar" style="width: 1.424%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.496%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">nametag</span>
+                                <div class="bar" style="width: 0.09599999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
@@ -1423,28 +1428,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 42.528%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">53%</span>
+                                <div class="bar" style="width: 40.208%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">50%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Rust</span>
-                                <div class="bar" style="width: 9.848%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Kotlin</span>
-                                <div class="bar" style="width: 8.216%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 10.456000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 8.208%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 8.92%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Kotlin</span>
+                                <div class="bar" style="width: 8.656%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 6.4959999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 6.840000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                         </div>
                     </section>
@@ -1472,7 +1477,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 10 May 2023, 20:27:48
+                            On 10 May 2023, 20:30:24
                         </div>
                     </section>
                 </div>
@@ -1482,16 +1487,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            resourcepack.host uploader
+                            Disabled API by default
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">408f222d</span>
-                            <span class="code">src/main/resources/plugin.yml</span>
+                            <span class="code">5c6820c1</span>
+                            <span class="code">src/main/resources/config.yml</span>
                             <span class="code">
-                                <span class="snippet additions">++2</span>
+                                <span class="snippet additions">++3</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -1500,14 +1505,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -14,5 +14,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">- "org.litote.kmongo:kmongo:4.8.0"<br /></span><span class="token prefix unchanged">·</span><span class="token line">- "io.prometheus:simpleclient:0.16.0"<br /></span><span class="token prefix unchanged">·</span><span class="token line">- "io.prometheus:simpleclient_httpserver:0.16.0"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">- "io.ktor:ktor-client-core:2.3.0"<br /></span><span class="token prefix inserted">+</span><span class="token line">- "io.ktor:ktor-client-java-jvm:2.3.0"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">depend: [ ProtocolLib, LibsDisguises ]<br /></span><span class="token prefix unchanged">·</span><span class="token line">load: POSTWORLD</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -10,4 +10,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    communication-webhook: ''<br /></span><span class="token prefix unchanged">·</span><span class="token line">    guild-id: 0<br /></span><span class="token prefix unchanged">·</span><span class="token line">game:<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">api-remote-url: ''<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">sandbox: false<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">api:<br /></span><span class="token prefix inserted">+</span><span class="token line">enabled: false # Only enable if you *really* need this</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 May 2023, 00:10:48 (timezone Europe/Moscow) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 May 2023, 01:12:26 (timezone Europe/Moscow) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
