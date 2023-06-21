@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.42482584078954" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="168.42482584078954" y="0" width="115.04808565570298" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="283.47291149649254" y="0" width="113.73716903233299" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="397.21008052882553" y="0" width="49.26565507501035" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="446.47573560383586" y="0" width="6.512179444266387" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.98791504810225" y="0" width="5.891766841413369" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.87968188951567" y="0" width="0.8701473429279126" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.7498292324436" y="0" width="0.25017076755647477" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.12442402142904" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="168.12442402142904" y="0" width="114.79515054269521" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="282.9195745641243" y="0" width="114.42855063781923" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="397.3481252019435" y="0" width="49.15734372012965" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="446.50546892207313" y="0" width="6.497862310397755" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="453.0033312324709" y="0" width="5.878813694880291" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.88214492735113" y="0" width="0.8682343096491536" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.75037923700035" y="0" width="0.2496207629996627" height="8" fill="#5686a5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -249,7 +249,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>2.09 MB</div>
+                                <div>2.10 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1482,7 +1482,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jun 2023, 16:16:36 (timezone Europe/Moscow) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 21 Jun 2023, 17:12:05 (timezone Europe/Moscow) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
