@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="141.1920629541775" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="141.1920629541775" y="0" width="130.7554784911613" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="271.9475414453388" y="0" width="103.37204058789962" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="375.3195820332384" y="0" width="54.581665031004235" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="429.9012470642426" y="0" width="11.998212262529444" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="441.8994593267721" y="0" width="9.50873111225534" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="451.4081904390274" y="0" width="5.189680608182811" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.5978710472102" y="0" width="3.402128952789746" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="140.7444019334477" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="140.7444019334477" y="0" width="131.79937526187547" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="272.5437771953232" y="0" width="103.04429105130195" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="375.58806824662514" y="0" width="54.40860938347226" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="429.9966776300974" y="0" width="11.960170946070177" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="441.9568485761676" y="0" width="9.478582900050673" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="451.43543147621824" y="0" width="5.173226299989335" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.60865777620756" y="0" width="3.3913422237924187" height="8" fill="#aace60"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -284,7 +284,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>2.91 MB</div>
+                                <div>2.94 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1423,7 +1423,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Nov 2024, 21:24:01 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Nov 2024, 22:14:04 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
