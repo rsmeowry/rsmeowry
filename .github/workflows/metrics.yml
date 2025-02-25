@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_SECRET }}
 
           # Options
-          user: Maxuss
+          user: rsmeowry
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Moscow
